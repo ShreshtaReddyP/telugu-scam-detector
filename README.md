@@ -1,0 +1,1 @@
+# telugu-scam-detector
